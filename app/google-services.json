@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "797218529562",
+    "project_id": "remindersvyat",
+    "storage_bucket": "remindersvyat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797218529562:android:17eb672ef9808cecdc8ca3",
+        "android_client_info": {
+          "package_name": "com.example.reminderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797218529562-gd4fvati5nk1vc351ilm3h6a664mh294.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reminderapp",
+            "certificate_hash": "5ea02ec947a8970f96a91c9cb92f35e7530c4004"
+          }
+        },
+        {
+          "client_id": "797218529562-77tm040qcj8482523vqm5qtqilkt3rih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM4BrpC2ULbazfG5REl1naL0FCNNgsUjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797218529562-77tm040qcj8482523vqm5qtqilkt3rih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
